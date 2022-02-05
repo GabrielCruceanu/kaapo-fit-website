@@ -26,6 +26,9 @@
             "@/components/*": [
                 "components/*" // The short path to components
             ],
+            "@/constants/*": [
+                "constants/*" // The short path to constants
+            ],
             "@/utils/*": [
                 "utils/*" // The short path to utils
             ],
