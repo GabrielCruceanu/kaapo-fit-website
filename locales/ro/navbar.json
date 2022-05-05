@@ -1,0 +1,51 @@
+{
+  "links": [
+      {
+        "text": "Acasa",
+        "href": "/"
+      },
+      {
+        "text": "Cauta",
+        "href": "cauta"
+      },
+      {
+        "text": "Blog",
+        "href": "blog"
+      },
+      {
+        "text": "Magazin",
+        "href": "magazin"
+      },
+      {
+        "text": "Cont",
+        "href": "cont"
+      }
+    ],
+    "mobile-links": [
+      {
+        "text": "Acasa",
+        "href": "/",
+        "icon": "<Search/>"
+      },
+      {
+        "text": "Cauta",
+        "href": "cauta",
+        "icon": "Search"
+      },
+      {
+        "text": "Blog",
+        "href": "blog",
+        "icon": "Search"
+      },
+      {
+        "text": "Magazin",
+        "href": "magazin",
+        "icon": "Search"
+      },
+      {
+        "text": "Cont",
+        "href": "cont",
+        "icon": "Search"
+      }
+    ]
+}

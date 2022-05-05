@@ -24,22 +24,22 @@
         "baseUrl": ".", // The base url where you start
         "paths": {
             "@/components/*": [
-                "components/*" // The short path to components
+                "./src/components/*" // The short path to components
             ],
             "@/constants/*": [
                 "constants/*" // The short path to constants
             ],
             "@/utils/*": [
-                "utils/*" // The short path to utils
+                "./src/utils/*" // The short path to utils
             ],
             "@/styles/*": [
-                "styles/*" // The short path to styles
+                "./src/styles/*" // The short path to styles
             ],
-            "@/themes/*": [
-                "themes/*" // The short path to themes
+            "@/theme/*": [
+                "./src/theme/*" // The short path to themes
             ],
             "@/lib/*": [
-                "lib/*" // The short path to lib
+                "./src/lib/*" // The short path to lib
             ],
             "@/public/*": [
                 "public/*" // The short path to public
@@ -54,7 +54,10 @@
                 "locales/*" // The short path to locales
             ],
             "@/redux/*": [
-                "redux/*" // The short path to redux
+                "./src/redux/*" // The short path to redux
+            ],
+            "@/hooks/*": [
+                "./src/hooks/*" // The short path to redux
             ]
         },
         "plugins": [

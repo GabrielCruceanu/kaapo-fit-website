@@ -1,0 +1,51 @@
+{
+  "links": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Search",
+      "href": "search"
+    },
+    {
+      "text": "Blog",
+      "href": "blog"
+    },
+    {
+      "text": "Shop",
+      "href": "shop"
+    },
+    {
+      "text": "Account",
+      "href": "account"
+    }
+  ],
+  "mobile-links": [
+    {
+      "text": "Home",
+      "icon": "<Search/>",
+      "href": "/"
+    },
+    {
+      "text": "Search",
+      "icon": "Search",
+      "href": "search"
+    },
+    {
+      "text": "Blog",
+      "icon": "Search",
+      "href": "blog"
+    },
+    {
+      "text": "Shop",
+      "icon": "Search",
+      "href": "shop"
+    },
+    {
+      "text": "Account",
+      "icon": "Search",
+      "href": "account"
+    }
+  ]
+}
