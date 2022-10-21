@@ -1,0 +1,7 @@
+{
+    "locales": ["en", "ro"],
+    "defaultLocale": "en",
+    "pages": {
+        "*": ["common", "navbar"]
+    }
+}
